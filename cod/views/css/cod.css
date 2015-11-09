@@ -1,0 +1,15 @@
+.cod_logo_img{
+    margin-right: 30px;
+    margin-bottom: 0px;
+}
+.cod_inline {
+    display: inline;
+}
+comment {
+    display: block;
+    font-size: 10px;
+
+}
+comment:before {
+    content: '▲';
+}
